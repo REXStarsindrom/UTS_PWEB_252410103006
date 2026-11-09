@@ -80,4 +80,12 @@ Cream (#F8F0E5) untuk background dengan overlay animasi.
 White (#FFFFFF) untuk kartu konten (cards) dan kontras teks.
 0% Lorem Ipsum (semua teks menggunakan narasi riil kedai kopi).
 
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/d8a242b3-d68d-4d80-874d-5809f842f808" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/37dcc828-c14a-4035-9856-3ba99017a37e" />
+<img width="2880" height="1786" alt="image" src="https://github.com/user-attachments/assets/06312cd3-2db9-4323-8609-450872a620ef" />
+<img width="2880" height="1778" alt="image" src="https://github.com/user-attachments/assets/eccf65e4-15d2-4838-9c21-d99af040181a" />
+
+
+
+
 
