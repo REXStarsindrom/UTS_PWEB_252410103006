@@ -64,3 +64,20 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Proyek tugas Ujian Tengah Semester (UTS) Pemrograman Web berbasis Laravel murni tanpa database yang mengimplementasikan arsitektur Model-View-Controller (MVC), Blade Directives, Request Handling berbasis Session, dan Array Rendering.
+
+Kedai Me Gweh adalah aplikasi web kedai kopi sederhana yang dirancang untuk membantu barista/kasir dalam mengelola informasi menu kopi dan profil operasional kedai.
+
+Aplikasi ini dibangun menggunakan arsitektur MVC (Model-View-Controller) dengan kriteria teknis:
+
+Tanpa Database: Seluruh data menu dikelola dalam bentuk array di Controller (PageController.php) dan dikirimkan secara dinamis ke View.
+Request Handling (Session): Data nama pengguna yang diinput pada formulir login disimpan ke dalam session Laravel, kemudian diteruskan dan ditampilkan secara konsisten pada halaman Dashboard dan Profile.
+Blade Directives Lengkap: Menggunakan @extends, @section, @endsection, @yield, dan @include untuk komponen modular seperti navbar dan footer.
+UI Kustom & Responsif: Menggunakan palet warna tema:
+Deep Indigo (#27187E) untuk navbar, tombol utama, dan aksen.
+Cream (#F8F0E5) untuk background dengan overlay animasi.
+White (#FFFFFF) untuk kartu konten (cards) dan kontras teks.
+0% Lorem Ipsum (semua teks menggunakan narasi riil kedai kopi).
+
+
